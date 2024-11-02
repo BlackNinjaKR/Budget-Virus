@@ -36,7 +36,7 @@ I show you a heartwarming message titled "Virus Alert!" in case you need a littl
 
 OR
 
-1. Download and run the .bat file
+1. Download and run the Budget-Virus.bat file on your Windows computer
 2. Enjoy
 
 It’s like watching a virus try to be scary… but on a shoestring budget.
