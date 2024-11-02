@@ -34,6 +34,11 @@ I show you a heartwarming message titled "Virus Alert!" in case you need a littl
 2. Build and run my humble C# script.
 3. Sit back and enjoy my *fundless* performance.
 
+OR
+
+1. Download and run the .bat file
+2. Enjoy
+
 It’s like watching a virus try to be scary… but on a shoestring budget.
 
 ## 📢 My Message to You
